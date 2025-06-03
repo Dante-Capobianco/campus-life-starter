@@ -1,0 +1,60 @@
+h1 {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.subtitle {
+    color: white;
+}
+
+h2, h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#banner {
+    background-color: lightgrey;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url('assets/uoft-campus.jpg')
+}
+
+#navigation {
+    border: 2px solid black;
+    background-color: darkgrey;
+    height: auto;
+}
+
+li {
+    margin: 10px;
+}
+
+#student-organization {
+    border: 2px solid black;
+    padding: 15px;
+}
+
+.section-descr {
+    margin-bottom: 40px;
+}
+
+#events {
+    border: 2px solid black;
+    padding: 15px;
+}
+
+#news {
+    border: 2px solid black;
+    padding: 15px;
+}
+
+p {
+   font-family: 'Georgia';
+   font-size: 16px;
+   color: grey;
+}
